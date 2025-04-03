@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "presightcorpit"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "presightcorpit"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "presightcorpit"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "presightcorpit"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "presightcorpit"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "presightcorpit"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
