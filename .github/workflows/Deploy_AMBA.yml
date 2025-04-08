@@ -10,7 +10,7 @@ permissions:
 
 env:
   Location: "UAE North"
-  ManagementGroupPrefix: "PLAT-MGMT"
+  ManagementGroupPrefix: "4dc25713-7c26-4b9a-9cdf-bdb3522b2066"
 
 jobs:
   deploy_job:
