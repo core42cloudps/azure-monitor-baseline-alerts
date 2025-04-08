@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "platformManagementGroup": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "IdentityManagementGroup": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "managementManagementGroup": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "connectivityManagementGroup": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "LandingZoneManagementGroup": {
-      "value": "presightcorpit"
+      "value": "PLAT-MGMT"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
