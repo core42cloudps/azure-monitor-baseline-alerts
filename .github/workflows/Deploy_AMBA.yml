@@ -10,7 +10,7 @@ permissions:
 
 env:
   Location: "UAE North"
-  ManagementGroupPrefix: "Tenant Root Group"
+  ManagementGroupPrefix: "PLAT-MGMT"
 
 jobs:
   deploy_job:
