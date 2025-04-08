@@ -78,9 +78,7 @@
       "value": "rg-amba-monitoring-001"
     },
     
-    "location": {
-      "value": "eastus"
-    },
+   
     "ALZMonitorResourceGroupLocation": {
       "value": "eastus"
     },
