@@ -10,7 +10,7 @@ permissions:
 
 env:
   Location: "UAE North"
-  ManagementGroupPrefix: "presightcorpit"
+  ManagementGroupPrefix: "Tenant Root Group"
 
 jobs:
   deploy_job:
