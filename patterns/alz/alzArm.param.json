@@ -63,13 +63,13 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "No"
+      "value": "Yes"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": ""
+      "value": "/subscriptions/84704ac0-fab5-4730-8620-338465c477b1/resourceGroups/RG_EUS_MGMT/providers/Microsoft.ManagedIdentity/userAssignedIdentities/az-monitoring-mid"
     },
     "userAssignedManagedIdentityName": {
-      "value": "id-amba-prod-001"
+      "value": "az-monitoring-mid"
     },
     "managementSubscriptionId": {
       "value": ""
