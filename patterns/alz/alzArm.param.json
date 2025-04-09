@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "PLAT-MGMT"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "PLAT-MGMT"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "PLAT-MGMT"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "PLAT-MGMT"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "PLAT-MGMT"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "PLAT-MGMT"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -72,7 +72,7 @@
       "value": "az-monitoring-mid"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "84704ac0-fab5-4730-8620-338465c477b1"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
