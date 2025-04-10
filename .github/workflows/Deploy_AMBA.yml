@@ -46,4 +46,5 @@ jobs:
         id: deploy_amba
         shell: bash
         run: |
-           az deployment mg create --template-file ./patterns/alz/alzArm.json --location "${{ env.Location }}" --management-group-id ${{ env.ManagementGroupPrefix }} --parameters ./patterns/alz/alzArm.param.json
+           az deployment mg create--template-uri https://raw.githubusercontent.com/core42cloudps/azure-monitor-baseline-alerts/refs/heads/main/patterns/alz/alzArm.json --location "eastus"  --location "${{ env.Location }}" --management-group-id ${{ env.ManagementGroupPrefix }} --parameters ./patterns/alz/alzArm.param.json
+          
