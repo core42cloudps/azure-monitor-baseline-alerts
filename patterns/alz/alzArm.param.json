@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "PLAT-MGMT"
+      "value": "MicrosoftCloudCoE"
     },
     "platformManagementGroup": {
-      "value": "PLAT-MGMT"
+      "value": "MCCoE-Platform"
     },
     "IdentityManagementGroup": {
-      "value": "PLAT-MGMT"
+      "value": "MCCoE-Identity"
     },
     "managementManagementGroup": {
-      "value": "PLAT-MGMT"
+      "value": "MCCoE-Management"
     },
     "connectivityManagementGroup": {
-      "value": "PLAT-MGMT"
+      "value": "MCCoE-Connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "PLAT-MGMT"
+      "value": "MCCoE-AppLandingZone"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -63,16 +63,16 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": "/subscriptions/84704ac0-fab5-4730-8620-338465c477b1/resourceGroups/RG_EUS_MGMT/providers/Microsoft.ManagedIdentity/userAssignedIdentities/az-monitoring-mid"
+      "value": ""
     },
     "userAssignedManagedIdentityName": {
       "value": "az-monitoring-mid"
     },
     "managementSubscriptionId": {
-      "value": "84704ac0-fab5-4730-8620-338465c477b1"
+      "value": "544300a6-87aa-4a48-8308-732d2dad749f"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
