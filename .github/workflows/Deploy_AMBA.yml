@@ -10,7 +10,7 @@ permissions:
 
 env:
   Location: "eastus"
-  ManagementGroupPrefix: "4dc25713-7c26-4b9a-9cdf-bdb3522b2066"
+  ManagementGroupPrefix: "MicrosoftCloudCoE"
 
 jobs:
   deploy_job:
